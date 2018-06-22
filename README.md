@@ -76,4 +76,5 @@ To help you get your feet wet and get you familiar with our contribution process
 React is [MIT licensed](./LICENSE).
 
 
-[//]: # (201806212ffrzaquK+qmjepgNHu4EDnEjWGoxHetzwWn5fpV95c=)
+
+[//]: # (20180622DKT8egTsPvSYoTvX+YGASr5yIyF9FuvZGywM0Agqc4k=)
